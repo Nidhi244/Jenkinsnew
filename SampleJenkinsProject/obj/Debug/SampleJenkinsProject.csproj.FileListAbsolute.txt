@@ -1,0 +1,7 @@
+D:\C#\day6\SampleJenkinsSolution\SampleJenkinsProject\bin\Debug\SampleJenkinsProject.exe.config
+D:\C#\day6\SampleJenkinsSolution\SampleJenkinsProject\bin\Debug\SampleJenkinsProject.exe
+D:\C#\day6\SampleJenkinsSolution\SampleJenkinsProject\bin\Debug\SampleJenkinsProject.pdb
+D:\C#\day6\SampleJenkinsSolution\SampleJenkinsProject\obj\Debug\SampleJenkinsProject.csprojAssemblyReference.cache
+D:\C#\day6\SampleJenkinsSolution\SampleJenkinsProject\obj\Debug\SampleJenkinsProject.csproj.CoreCompileInputs.cache
+D:\C#\day6\SampleJenkinsSolution\SampleJenkinsProject\obj\Debug\SampleJenkinsProject.exe
+D:\C#\day6\SampleJenkinsSolution\SampleJenkinsProject\obj\Debug\SampleJenkinsProject.pdb
